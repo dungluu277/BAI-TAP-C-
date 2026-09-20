@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\homework\\NNLTCsarp\\TUAN 2\\BUOI 11\\BT4Prj\\BT4Prj.csproj": {}
+    "D:\\homework\\NNLTCsarp\\BAI-TAP-C-\\TUAN 2\\BUOI 11\\BT4Prj\\BT4Prj.csproj": {}
   },
   "projects": {
-    "D:\\homework\\NNLTCsarp\\TUAN 2\\BUOI 11\\BT4Prj\\BT4Prj.csproj": {
+    "D:\\homework\\NNLTCsarp\\BAI-TAP-C-\\TUAN 2\\BUOI 11\\BT4Prj\\BT4Prj.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\homework\\NNLTCsarp\\TUAN 2\\BUOI 11\\BT4Prj\\BT4Prj.csproj",
+        "projectUniqueName": "D:\\homework\\NNLTCsarp\\BAI-TAP-C-\\TUAN 2\\BUOI 11\\BT4Prj\\BT4Prj.csproj",
         "projectName": "BT4Prj",
-        "projectPath": "D:\\homework\\NNLTCsarp\\TUAN 2\\BUOI 11\\BT4Prj\\BT4Prj.csproj",
+        "projectPath": "D:\\homework\\NNLTCsarp\\BAI-TAP-C-\\TUAN 2\\BUOI 11\\BT4Prj\\BT4Prj.csproj",
         "packagesPath": "C:\\Users\\Manh Dung\\.nuget\\packages\\",
-        "outputPath": "D:\\homework\\NNLTCsarp\\TUAN 2\\BUOI 11\\BT4Prj\\obj\\",
+        "outputPath": "D:\\homework\\NNLTCsarp\\BAI-TAP-C-\\TUAN 2\\BUOI 11\\BT4Prj\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Manh Dung\\AppData\\Roaming\\NuGet\\NuGet.Config"
