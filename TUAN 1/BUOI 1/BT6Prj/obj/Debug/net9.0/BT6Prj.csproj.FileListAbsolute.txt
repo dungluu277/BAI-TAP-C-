@@ -1,0 +1,14 @@
+D:\homework\NNLTCsarp\BT6Prj\bin\Debug\net9.0\BT6Prj.exe
+D:\homework\NNLTCsarp\BT6Prj\bin\Debug\net9.0\BT6Prj.deps.json
+D:\homework\NNLTCsarp\BT6Prj\bin\Debug\net9.0\BT6Prj.runtimeconfig.json
+D:\homework\NNLTCsarp\BT6Prj\bin\Debug\net9.0\BT6Prj.dll
+D:\homework\NNLTCsarp\BT6Prj\bin\Debug\net9.0\BT6Prj.pdb
+D:\homework\NNLTCsarp\BT6Prj\obj\Debug\net9.0\BT6Prj.GeneratedMSBuildEditorConfig.editorconfig
+D:\homework\NNLTCsarp\BT6Prj\obj\Debug\net9.0\BT6Prj.AssemblyInfoInputs.cache
+D:\homework\NNLTCsarp\BT6Prj\obj\Debug\net9.0\BT6Prj.AssemblyInfo.cs
+D:\homework\NNLTCsarp\BT6Prj\obj\Debug\net9.0\BT6Prj.csproj.CoreCompileInputs.cache
+D:\homework\NNLTCsarp\BT6Prj\obj\Debug\net9.0\BT6Prj.dll
+D:\homework\NNLTCsarp\BT6Prj\obj\Debug\net9.0\refint\BT6Prj.dll
+D:\homework\NNLTCsarp\BT6Prj\obj\Debug\net9.0\BT6Prj.pdb
+D:\homework\NNLTCsarp\BT6Prj\obj\Debug\net9.0\BT6Prj.genruntimeconfig.cache
+D:\homework\NNLTCsarp\BT6Prj\obj\Debug\net9.0\ref\BT6Prj.dll

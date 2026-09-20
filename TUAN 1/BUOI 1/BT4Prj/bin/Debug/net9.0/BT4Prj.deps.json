@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "BT4Prj/1.0.0": {
+        "runtime": {
+          "BT4Prj.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BT4Prj/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

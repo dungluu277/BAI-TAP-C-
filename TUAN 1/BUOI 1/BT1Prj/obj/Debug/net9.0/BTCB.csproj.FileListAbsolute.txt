@@ -1,0 +1,14 @@
+D:\homework\NNLTCsarp\BT1Prj\bin\Debug\net9.0\BTCB.exe
+D:\homework\NNLTCsarp\BT1Prj\bin\Debug\net9.0\BTCB.deps.json
+D:\homework\NNLTCsarp\BT1Prj\bin\Debug\net9.0\BTCB.runtimeconfig.json
+D:\homework\NNLTCsarp\BT1Prj\bin\Debug\net9.0\BTCB.dll
+D:\homework\NNLTCsarp\BT1Prj\bin\Debug\net9.0\BTCB.pdb
+D:\homework\NNLTCsarp\BT1Prj\obj\Debug\net9.0\BTCB.GeneratedMSBuildEditorConfig.editorconfig
+D:\homework\NNLTCsarp\BT1Prj\obj\Debug\net9.0\BTCB.AssemblyInfoInputs.cache
+D:\homework\NNLTCsarp\BT1Prj\obj\Debug\net9.0\BTCB.AssemblyInfo.cs
+D:\homework\NNLTCsarp\BT1Prj\obj\Debug\net9.0\BTCB.csproj.CoreCompileInputs.cache
+D:\homework\NNLTCsarp\BT1Prj\obj\Debug\net9.0\BTCB.dll
+D:\homework\NNLTCsarp\BT1Prj\obj\Debug\net9.0\refint\BTCB.dll
+D:\homework\NNLTCsarp\BT1Prj\obj\Debug\net9.0\BTCB.pdb
+D:\homework\NNLTCsarp\BT1Prj\obj\Debug\net9.0\BTCB.genruntimeconfig.cache
+D:\homework\NNLTCsarp\BT1Prj\obj\Debug\net9.0\ref\BTCB.dll

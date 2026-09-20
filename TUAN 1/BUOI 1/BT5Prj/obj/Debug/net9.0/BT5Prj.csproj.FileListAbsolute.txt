@@ -1,0 +1,14 @@
+D:\homework\NNLTCsarp\BT5Prj\bin\Debug\net9.0\BT5Prj.exe
+D:\homework\NNLTCsarp\BT5Prj\bin\Debug\net9.0\BT5Prj.deps.json
+D:\homework\NNLTCsarp\BT5Prj\bin\Debug\net9.0\BT5Prj.runtimeconfig.json
+D:\homework\NNLTCsarp\BT5Prj\bin\Debug\net9.0\BT5Prj.dll
+D:\homework\NNLTCsarp\BT5Prj\bin\Debug\net9.0\BT5Prj.pdb
+D:\homework\NNLTCsarp\BT5Prj\obj\Debug\net9.0\BT5Prj.GeneratedMSBuildEditorConfig.editorconfig
+D:\homework\NNLTCsarp\BT5Prj\obj\Debug\net9.0\BT5Prj.AssemblyInfoInputs.cache
+D:\homework\NNLTCsarp\BT5Prj\obj\Debug\net9.0\BT5Prj.AssemblyInfo.cs
+D:\homework\NNLTCsarp\BT5Prj\obj\Debug\net9.0\BT5Prj.csproj.CoreCompileInputs.cache
+D:\homework\NNLTCsarp\BT5Prj\obj\Debug\net9.0\BT5Prj.dll
+D:\homework\NNLTCsarp\BT5Prj\obj\Debug\net9.0\refint\BT5Prj.dll
+D:\homework\NNLTCsarp\BT5Prj\obj\Debug\net9.0\BT5Prj.pdb
+D:\homework\NNLTCsarp\BT5Prj\obj\Debug\net9.0\BT5Prj.genruntimeconfig.cache
+D:\homework\NNLTCsarp\BT5Prj\obj\Debug\net9.0\ref\BT5Prj.dll
