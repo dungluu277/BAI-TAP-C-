@@ -1,0 +1,14 @@
+D:\homework\NNLTCsarp\TUAN 1\BUOI 12\BT4Prj\bin\Debug\net9.0\BT4Prj.exe
+D:\homework\NNLTCsarp\TUAN 1\BUOI 12\BT4Prj\bin\Debug\net9.0\BT4Prj.deps.json
+D:\homework\NNLTCsarp\TUAN 1\BUOI 12\BT4Prj\bin\Debug\net9.0\BT4Prj.runtimeconfig.json
+D:\homework\NNLTCsarp\TUAN 1\BUOI 12\BT4Prj\bin\Debug\net9.0\BT4Prj.dll
+D:\homework\NNLTCsarp\TUAN 1\BUOI 12\BT4Prj\bin\Debug\net9.0\BT4Prj.pdb
+D:\homework\NNLTCsarp\TUAN 1\BUOI 12\BT4Prj\obj\Debug\net9.0\BT4Prj.GeneratedMSBuildEditorConfig.editorconfig
+D:\homework\NNLTCsarp\TUAN 1\BUOI 12\BT4Prj\obj\Debug\net9.0\BT4Prj.AssemblyInfoInputs.cache
+D:\homework\NNLTCsarp\TUAN 1\BUOI 12\BT4Prj\obj\Debug\net9.0\BT4Prj.AssemblyInfo.cs
+D:\homework\NNLTCsarp\TUAN 1\BUOI 12\BT4Prj\obj\Debug\net9.0\BT4Prj.csproj.CoreCompileInputs.cache
+D:\homework\NNLTCsarp\TUAN 1\BUOI 12\BT4Prj\obj\Debug\net9.0\BT4Prj.dll
+D:\homework\NNLTCsarp\TUAN 1\BUOI 12\BT4Prj\obj\Debug\net9.0\refint\BT4Prj.dll
+D:\homework\NNLTCsarp\TUAN 1\BUOI 12\BT4Prj\obj\Debug\net9.0\BT4Prj.pdb
+D:\homework\NNLTCsarp\TUAN 1\BUOI 12\BT4Prj\obj\Debug\net9.0\BT4Prj.genruntimeconfig.cache
+D:\homework\NNLTCsarp\TUAN 1\BUOI 12\BT4Prj\obj\Debug\net9.0\ref\BT4Prj.dll
