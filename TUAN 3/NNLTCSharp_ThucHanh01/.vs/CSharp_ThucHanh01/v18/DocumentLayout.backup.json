@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ADMIN\\Downloads\\CSharp_ThucHanh01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7B1C4F6E-7A65-4D0D-9F2B-7B5B2A9A8D11}|CSharp_ThucHanh01.csproj|c:\\users\\admin\\downloads\\csharp_thuchanh01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B1C4F6E-7A65-4D0D-9F2B-7B5B2A9A8D11}|CSharp_ThucHanh01.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B1C4F6E-7A65-4D0D-9F2B-7B5B2A9A8D11}|CSharp_ThucHanh01.csproj|c:\\users\\admin\\downloads\\csharp_thuchanh01\\csharp_thuchanh01.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7B1C4F6E-7A65-4D0D-9F2B-7B5B2A9A8D11}|CSharp_ThucHanh01.csproj|solutionrelative:csharp_thuchanh01.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B1C4F6E-7A65-4D0D-9F2B-7B5B2A9A8D11}|CSharp_ThucHanh01.csproj|c:\\users\\admin\\downloads\\csharp_thuchanh01\\baitap\\baitap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B1C4F6E-7A65-4D0D-9F2B-7B5B2A9A8D11}|CSharp_ThucHanh01.csproj|solutionrelative:baitap\\baitap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B1C4F6E-7A65-4D0D-9F2B-7B5B2A9A8D11}|CSharp_ThucHanh01.csproj|c:\\users\\admin\\downloads\\csharp_thuchanh01\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{7B1C4F6E-7A65-4D0D-9F2B-7B5B2A9A8D11}|CSharp_ThucHanh01.csproj|solutionrelative:readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CSharp_ThucHanh01",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\CSharp_ThucHanh01\\CSharp_ThucHanh01.csproj",
+              "RelativeDocumentMoniker": "CSharp_ThucHanh01.csproj",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\CSharp_ThucHanh01\\CSharp_ThucHanh01.csproj",
+              "RelativeToolTip": "CSharp_ThucHanh01.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-22T14:37:20.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\CSharp_ThucHanh01\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\CSharp_ThucHanh01\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAuwEEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-22T14:20:40.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BaiTap.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\CSharp_ThucHanh01\\BaiTap\\BaiTap.cs",
+              "RelativeDocumentMoniker": "BaiTap\\BaiTap.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\CSharp_ThucHanh01\\BaiTap\\BaiTap.cs",
+              "RelativeToolTip": "BaiTap\\BaiTap.cs",
+              "ViewState": "AgIAAGcCAAAAAAAAAAAAAHoCAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-22T14:20:38.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "README.txt",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\CSharp_ThucHanh01\\README.txt",
+              "RelativeDocumentMoniker": "README.txt",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\CSharp_ThucHanh01\\README.txt",
+              "RelativeToolTip": "README.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-09-22T14:20:43.375Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

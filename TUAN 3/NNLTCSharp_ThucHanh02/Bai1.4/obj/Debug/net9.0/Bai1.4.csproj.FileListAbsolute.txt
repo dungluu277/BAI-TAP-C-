@@ -1,0 +1,15 @@
+D:\homework\NNLTCsarp\BAI-TAP-C-\TUAN 3\NNLTCSharp_ThucHanh02\Bai1.4\bin\Debug\net9.0\Bai1.4.exe
+D:\homework\NNLTCsarp\BAI-TAP-C-\TUAN 3\NNLTCSharp_ThucHanh02\Bai1.4\bin\Debug\net9.0\Bai1.4.deps.json
+D:\homework\NNLTCsarp\BAI-TAP-C-\TUAN 3\NNLTCSharp_ThucHanh02\Bai1.4\bin\Debug\net9.0\Bai1.4.runtimeconfig.json
+D:\homework\NNLTCsarp\BAI-TAP-C-\TUAN 3\NNLTCSharp_ThucHanh02\Bai1.4\bin\Debug\net9.0\Bai1.4.dll
+D:\homework\NNLTCsarp\BAI-TAP-C-\TUAN 3\NNLTCSharp_ThucHanh02\Bai1.4\bin\Debug\net9.0\Bai1.4.pdb
+D:\homework\NNLTCsarp\BAI-TAP-C-\TUAN 3\NNLTCSharp_ThucHanh02\Bai1.4\obj\Debug\net9.0\Bai1.4.GeneratedMSBuildEditorConfig.editorconfig
+D:\homework\NNLTCsarp\BAI-TAP-C-\TUAN 3\NNLTCSharp_ThucHanh02\Bai1.4\obj\Debug\net9.0\Bai1.4.AssemblyInfoInputs.cache
+D:\homework\NNLTCsarp\BAI-TAP-C-\TUAN 3\NNLTCSharp_ThucHanh02\Bai1.4\obj\Debug\net9.0\Bai1.4.AssemblyInfo.cs
+D:\homework\NNLTCsarp\BAI-TAP-C-\TUAN 3\NNLTCSharp_ThucHanh02\Bai1.4\obj\Debug\net9.0\Bai1.4.csproj.CoreCompileInputs.cache
+D:\homework\NNLTCsarp\BAI-TAP-C-\TUAN 3\NNLTCSharp_ThucHanh02\Bai1.4\obj\Debug\net9.0\Bai1.4.sourcelink.json
+D:\homework\NNLTCsarp\BAI-TAP-C-\TUAN 3\NNLTCSharp_ThucHanh02\Bai1.4\obj\Debug\net9.0\Bai1.4.dll
+D:\homework\NNLTCsarp\BAI-TAP-C-\TUAN 3\NNLTCSharp_ThucHanh02\Bai1.4\obj\Debug\net9.0\refint\Bai1.4.dll
+D:\homework\NNLTCsarp\BAI-TAP-C-\TUAN 3\NNLTCSharp_ThucHanh02\Bai1.4\obj\Debug\net9.0\Bai1.4.pdb
+D:\homework\NNLTCsarp\BAI-TAP-C-\TUAN 3\NNLTCSharp_ThucHanh02\Bai1.4\obj\Debug\net9.0\Bai1.4.genruntimeconfig.cache
+D:\homework\NNLTCsarp\BAI-TAP-C-\TUAN 3\NNLTCSharp_ThucHanh02\Bai1.4\obj\Debug\net9.0\ref\Bai1.4.dll

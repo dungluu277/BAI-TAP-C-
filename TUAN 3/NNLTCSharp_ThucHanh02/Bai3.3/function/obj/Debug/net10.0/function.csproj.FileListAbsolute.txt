@@ -1,0 +1,27 @@
+C:\Users\hauth\OneDrive\Tài liệu\GitHub\CSharp\Lab02\TH02\Bai3.3\function\obj\Debug\net10.0\function.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hauth\OneDrive\Tài liệu\GitHub\CSharp\Lab02\TH02\Bai3.3\function\obj\Debug\net10.0\function.AssemblyInfoInputs.cache
+C:\Users\hauth\OneDrive\Tài liệu\GitHub\CSharp\Lab02\TH02\Bai3.3\function\obj\Debug\net10.0\function.AssemblyInfo.cs
+C:\Users\hauth\OneDrive\Tài liệu\GitHub\CSharp\Lab02\TH02\Bai3.3\function\obj\Debug\net10.0\function.csproj.CoreCompileInputs.cache
+C:\Users\hauth\OneDrive\Tài liệu\GitHub\CSharp\Lab02\TH02\Bai3.3\function\obj\Debug\net10.0\function.sourcelink.json
+C:\Users\hauth\OneDrive\Tài liệu\GitHub\CSharp\Lab02\TH02\Bai3.3\function\bin\Debug\net10.0\function.deps.json
+C:\Users\hauth\OneDrive\Tài liệu\GitHub\CSharp\Lab02\TH02\Bai3.3\function\bin\Debug\net10.0\function.dll
+C:\Users\hauth\OneDrive\Tài liệu\GitHub\CSharp\Lab02\TH02\Bai3.3\function\bin\Debug\net10.0\function.pdb
+C:\Users\hauth\OneDrive\Tài liệu\GitHub\CSharp\Lab02\TH02\Bai3.3\function\obj\Debug\net10.0\function.dll
+C:\Users\hauth\OneDrive\Tài liệu\GitHub\CSharp\Lab02\TH02\Bai3.3\function\obj\Debug\net10.0\refint\function.dll
+C:\Users\hauth\OneDrive\Tài liệu\GitHub\CSharp\Lab02\TH02\Bai3.3\function\obj\Debug\net10.0\function.pdb
+C:\Users\hauth\OneDrive\Tài liệu\GitHub\CSharp\Lab02\TH02\Bai3.3\function\obj\Debug\net10.0\ref\function.dll
+D:\sgu26_NNLCsharp_C3\Tuan02\TH2\TH02\Bai3.3\function\bin\Debug\net10.0\function.deps.json
+D:\sgu26_NNLCsharp_C3\Tuan02\TH2\TH02\Bai3.3\function\bin\Debug\net10.0\function.dll
+D:\sgu26_NNLCsharp_C3\Tuan02\TH2\TH02\Bai3.3\function\bin\Debug\net10.0\function.pdb
+D:\sgu26_NNLCsharp_C3\Tuan02\TH2\TH02\Bai3.3\function\obj\Debug\net10.0\function.GeneratedMSBuildEditorConfig.editorconfig
+D:\sgu26_NNLCsharp_C3\Tuan02\TH2\TH02\Bai3.3\function\obj\Debug\net10.0\function.AssemblyInfoInputs.cache
+D:\sgu26_NNLCsharp_C3\Tuan02\TH2\TH02\Bai3.3\function\obj\Debug\net10.0\function.AssemblyInfo.cs
+D:\sgu26_NNLCsharp_C3\Tuan02\TH2\TH02\Bai3.3\function\obj\Debug\net10.0\function.csproj.CoreCompileInputs.cache
+D:\sgu26_NNLCsharp_C3\Tuan02\TH2\TH02\Bai3.3\function\obj\Debug\net10.0\function.sourcelink.json
+D:\sgu26_NNLCsharp_C3\Tuan02\TH2\TH02\Bai3.3\function\obj\Debug\net10.0\function.dll
+D:\sgu26_NNLCsharp_C3\Tuan02\TH2\TH02\Bai3.3\function\obj\Debug\net10.0\refint\function.dll
+D:\sgu26_NNLCsharp_C3\Tuan02\TH2\TH02\Bai3.3\function\obj\Debug\net10.0\function.pdb
+D:\sgu26_NNLCsharp_C3\Tuan02\TH2\TH02\Bai3.3\function\obj\Debug\net10.0\ref\function.dll
+D:\sgu26_NNLCsharp_C3\Tuan02\TH2\TH02\Bai3.3\function\bin\Debug\net10.0\function.exe
+D:\sgu26_NNLCsharp_C3\Tuan02\TH2\TH02\Bai3.3\function\bin\Debug\net10.0\function.runtimeconfig.json
+D:\sgu26_NNLCsharp_C3\Tuan02\TH2\TH02\Bai3.3\function\obj\Debug\net10.0\function.genruntimeconfig.cache

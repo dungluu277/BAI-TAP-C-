@@ -1,0 +1,15 @@
+D:\sgu26_NNLCsharp_C3\Tuan02\TH2\BaiTapChuong2_v2\Bai2.1_ArrayPoint\bin\Debug\net10.0\Bai2.1_ArrayPoint.exe
+D:\sgu26_NNLCsharp_C3\Tuan02\TH2\BaiTapChuong2_v2\Bai2.1_ArrayPoint\bin\Debug\net10.0\Bai2.1_ArrayPoint.deps.json
+D:\sgu26_NNLCsharp_C3\Tuan02\TH2\BaiTapChuong2_v2\Bai2.1_ArrayPoint\bin\Debug\net10.0\Bai2.1_ArrayPoint.runtimeconfig.json
+D:\sgu26_NNLCsharp_C3\Tuan02\TH2\BaiTapChuong2_v2\Bai2.1_ArrayPoint\bin\Debug\net10.0\Bai2.1_ArrayPoint.dll
+D:\sgu26_NNLCsharp_C3\Tuan02\TH2\BaiTapChuong2_v2\Bai2.1_ArrayPoint\bin\Debug\net10.0\Bai2.1_ArrayPoint.pdb
+D:\sgu26_NNLCsharp_C3\Tuan02\TH2\BaiTapChuong2_v2\Bai2.1_ArrayPoint\obj\Debug\net10.0\Bai2.1_ArrayPoint.GeneratedMSBuildEditorConfig.editorconfig
+D:\sgu26_NNLCsharp_C3\Tuan02\TH2\BaiTapChuong2_v2\Bai2.1_ArrayPoint\obj\Debug\net10.0\Bai2.1_ArrayPoint.AssemblyInfoInputs.cache
+D:\sgu26_NNLCsharp_C3\Tuan02\TH2\BaiTapChuong2_v2\Bai2.1_ArrayPoint\obj\Debug\net10.0\Bai2.1_ArrayPoint.AssemblyInfo.cs
+D:\sgu26_NNLCsharp_C3\Tuan02\TH2\BaiTapChuong2_v2\Bai2.1_ArrayPoint\obj\Debug\net10.0\Bai2.1_ArrayPoint.csproj.CoreCompileInputs.cache
+D:\sgu26_NNLCsharp_C3\Tuan02\TH2\BaiTapChuong2_v2\Bai2.1_ArrayPoint\obj\Debug\net10.0\Bai2.1_ArrayPoint.sourcelink.json
+D:\sgu26_NNLCsharp_C3\Tuan02\TH2\BaiTapChuong2_v2\Bai2.1_ArrayPoint\obj\Debug\net10.0\Bai2.1_ArrayPoint.dll
+D:\sgu26_NNLCsharp_C3\Tuan02\TH2\BaiTapChuong2_v2\Bai2.1_ArrayPoint\obj\Debug\net10.0\refint\Bai2.1_ArrayPoint.dll
+D:\sgu26_NNLCsharp_C3\Tuan02\TH2\BaiTapChuong2_v2\Bai2.1_ArrayPoint\obj\Debug\net10.0\Bai2.1_ArrayPoint.pdb
+D:\sgu26_NNLCsharp_C3\Tuan02\TH2\BaiTapChuong2_v2\Bai2.1_ArrayPoint\obj\Debug\net10.0\Bai2.1_ArrayPoint.genruntimeconfig.cache
+D:\sgu26_NNLCsharp_C3\Tuan02\TH2\BaiTapChuong2_v2\Bai2.1_ArrayPoint\obj\Debug\net10.0\ref\Bai2.1_ArrayPoint.dll

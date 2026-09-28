@@ -1,0 +1,29 @@
+D:\Program\C##\lab2TH2\bai2.4\bin\Debug\net9.0\bai2.4.exe
+D:\Program\C##\lab2TH2\bai2.4\bin\Debug\net9.0\bai2.4.deps.json
+D:\Program\C##\lab2TH2\bai2.4\bin\Debug\net9.0\bai2.4.runtimeconfig.json
+D:\Program\C##\lab2TH2\bai2.4\bin\Debug\net9.0\bai2.4.dll
+D:\Program\C##\lab2TH2\bai2.4\bin\Debug\net9.0\bai2.4.pdb
+D:\Program\C##\lab2TH2\bai2.4\obj\Debug\net9.0\bai2.4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Program\C##\lab2TH2\bai2.4\obj\Debug\net9.0\bai2.4.AssemblyInfoInputs.cache
+D:\Program\C##\lab2TH2\bai2.4\obj\Debug\net9.0\bai2.4.AssemblyInfo.cs
+D:\Program\C##\lab2TH2\bai2.4\obj\Debug\net9.0\bai2.4.csproj.CoreCompileInputs.cache
+D:\Program\C##\lab2TH2\bai2.4\obj\Debug\net9.0\bai2.4.dll
+D:\Program\C##\lab2TH2\bai2.4\obj\Debug\net9.0\refint\bai2.4.dll
+D:\Program\C##\lab2TH2\bai2.4\obj\Debug\net9.0\bai2.4.pdb
+D:\Program\C##\lab2TH2\bai2.4\obj\Debug\net9.0\bai2.4.genruntimeconfig.cache
+D:\Program\C##\lab2TH2\bai2.4\obj\Debug\net9.0\ref\bai2.4.dll
+D:\homework\NNLTCsarp\BAI-TAP-C-\TUAN 3\NNLTCSharp_ThucHanh02\bai2.4\bin\Debug\net9.0\bai2.4.exe
+D:\homework\NNLTCsarp\BAI-TAP-C-\TUAN 3\NNLTCSharp_ThucHanh02\bai2.4\bin\Debug\net9.0\bai2.4.deps.json
+D:\homework\NNLTCsarp\BAI-TAP-C-\TUAN 3\NNLTCSharp_ThucHanh02\bai2.4\bin\Debug\net9.0\bai2.4.runtimeconfig.json
+D:\homework\NNLTCsarp\BAI-TAP-C-\TUAN 3\NNLTCSharp_ThucHanh02\bai2.4\bin\Debug\net9.0\bai2.4.dll
+D:\homework\NNLTCsarp\BAI-TAP-C-\TUAN 3\NNLTCSharp_ThucHanh02\bai2.4\bin\Debug\net9.0\bai2.4.pdb
+D:\homework\NNLTCsarp\BAI-TAP-C-\TUAN 3\NNLTCSharp_ThucHanh02\bai2.4\obj\Debug\net9.0\bai2.4.GeneratedMSBuildEditorConfig.editorconfig
+D:\homework\NNLTCsarp\BAI-TAP-C-\TUAN 3\NNLTCSharp_ThucHanh02\bai2.4\obj\Debug\net9.0\bai2.4.AssemblyInfoInputs.cache
+D:\homework\NNLTCsarp\BAI-TAP-C-\TUAN 3\NNLTCSharp_ThucHanh02\bai2.4\obj\Debug\net9.0\bai2.4.AssemblyInfo.cs
+D:\homework\NNLTCsarp\BAI-TAP-C-\TUAN 3\NNLTCSharp_ThucHanh02\bai2.4\obj\Debug\net9.0\bai2.4.csproj.CoreCompileInputs.cache
+D:\homework\NNLTCsarp\BAI-TAP-C-\TUAN 3\NNLTCSharp_ThucHanh02\bai2.4\obj\Debug\net9.0\bai2.4.sourcelink.json
+D:\homework\NNLTCsarp\BAI-TAP-C-\TUAN 3\NNLTCSharp_ThucHanh02\bai2.4\obj\Debug\net9.0\bai2.4.dll
+D:\homework\NNLTCsarp\BAI-TAP-C-\TUAN 3\NNLTCSharp_ThucHanh02\bai2.4\obj\Debug\net9.0\refint\bai2.4.dll
+D:\homework\NNLTCsarp\BAI-TAP-C-\TUAN 3\NNLTCSharp_ThucHanh02\bai2.4\obj\Debug\net9.0\bai2.4.pdb
+D:\homework\NNLTCsarp\BAI-TAP-C-\TUAN 3\NNLTCSharp_ThucHanh02\bai2.4\obj\Debug\net9.0\bai2.4.genruntimeconfig.cache
+D:\homework\NNLTCsarp\BAI-TAP-C-\TUAN 3\NNLTCSharp_ThucHanh02\bai2.4\obj\Debug\net9.0\ref\bai2.4.dll

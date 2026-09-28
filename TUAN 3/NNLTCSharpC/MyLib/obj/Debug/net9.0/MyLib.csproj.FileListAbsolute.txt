@@ -1,0 +1,12 @@
+D:\homework\NNLTCsarp\BAI-TAP-C-\TUAN 3\NNLTCSharpC\MyLib\obj\Debug\net9.0\MyLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\homework\NNLTCsarp\BAI-TAP-C-\TUAN 3\NNLTCSharpC\MyLib\obj\Debug\net9.0\MyLib.AssemblyInfoInputs.cache
+D:\homework\NNLTCsarp\BAI-TAP-C-\TUAN 3\NNLTCSharpC\MyLib\obj\Debug\net9.0\MyLib.AssemblyInfo.cs
+D:\homework\NNLTCsarp\BAI-TAP-C-\TUAN 3\NNLTCSharpC\MyLib\obj\Debug\net9.0\MyLib.csproj.CoreCompileInputs.cache
+D:\homework\NNLTCsarp\BAI-TAP-C-\TUAN 3\NNLTCSharpC\MyLib\obj\Debug\net9.0\MyLib.sourcelink.json
+D:\homework\NNLTCsarp\BAI-TAP-C-\TUAN 3\NNLTCSharpC\MyLib\bin\Debug\net9.0\MyLib.deps.json
+D:\homework\NNLTCsarp\BAI-TAP-C-\TUAN 3\NNLTCSharpC\MyLib\bin\Debug\net9.0\MyLib.dll
+D:\homework\NNLTCsarp\BAI-TAP-C-\TUAN 3\NNLTCSharpC\MyLib\bin\Debug\net9.0\MyLib.pdb
+D:\homework\NNLTCsarp\BAI-TAP-C-\TUAN 3\NNLTCSharpC\MyLib\obj\Debug\net9.0\MyLib.dll
+D:\homework\NNLTCsarp\BAI-TAP-C-\TUAN 3\NNLTCSharpC\MyLib\obj\Debug\net9.0\refint\MyLib.dll
+D:\homework\NNLTCsarp\BAI-TAP-C-\TUAN 3\NNLTCSharpC\MyLib\obj\Debug\net9.0\MyLib.pdb
+D:\homework\NNLTCsarp\BAI-TAP-C-\TUAN 3\NNLTCSharpC\MyLib\obj\Debug\net9.0\ref\MyLib.dll

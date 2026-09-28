@@ -1,0 +1,44 @@
+C:\Users\ADMIN\Downloads\CSharp_ThucHanh01\obj\Debug\net8.0\CSharp_ThucHanh01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Downloads\CSharp_ThucHanh01\obj\Debug\net8.0\CSharp_ThucHanh01.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Downloads\CSharp_ThucHanh01\obj\Debug\net8.0\CSharp_ThucHanh01.AssemblyInfo.cs
+C:\Users\ADMIN\Downloads\CSharp_ThucHanh01\obj\Debug\net8.0\CSharp_ThucHanh01.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\CSharp_ThucHanh01\bin\Debug\net8.0\CSharp_ThucHanh01.exe
+C:\Users\ADMIN\Downloads\CSharp_ThucHanh01\bin\Debug\net8.0\CSharp_ThucHanh01.deps.json
+C:\Users\ADMIN\Downloads\CSharp_ThucHanh01\bin\Debug\net8.0\CSharp_ThucHanh01.runtimeconfig.json
+C:\Users\ADMIN\Downloads\CSharp_ThucHanh01\bin\Debug\net8.0\CSharp_ThucHanh01.dll
+C:\Users\ADMIN\Downloads\CSharp_ThucHanh01\bin\Debug\net8.0\CSharp_ThucHanh01.pdb
+C:\Users\ADMIN\Downloads\CSharp_ThucHanh01\obj\Debug\net8.0\CSharp_ThucHanh01.dll
+C:\Users\ADMIN\Downloads\CSharp_ThucHanh01\obj\Debug\net8.0\refint\CSharp_ThucHanh01.dll
+C:\Users\ADMIN\Downloads\CSharp_ThucHanh01\obj\Debug\net8.0\CSharp_ThucHanh01.pdb
+C:\Users\ADMIN\Downloads\CSharp_ThucHanh01\obj\Debug\net8.0\CSharp_ThucHanh01.genruntimeconfig.cache
+C:\Users\ADMIN\Downloads\CSharp_ThucHanh01\obj\Debug\net8.0\ref\CSharp_ThucHanh01.dll
+C:\Users\ADMIN\Downloads\CSharp_ThucHanh01\obj\Debug\net8.0\CSharp_T.6C99D189.Up2Date
+C:\Users\Manh Dung\Downloads\CSharp_ThucHanh01\bin\Debug\net8.0\CSharp_ThucHanh01.exe
+C:\Users\Manh Dung\Downloads\CSharp_ThucHanh01\bin\Debug\net8.0\CSharp_ThucHanh01.deps.json
+C:\Users\Manh Dung\Downloads\CSharp_ThucHanh01\bin\Debug\net8.0\CSharp_ThucHanh01.runtimeconfig.json
+C:\Users\Manh Dung\Downloads\CSharp_ThucHanh01\bin\Debug\net8.0\CSharp_ThucHanh01.dll
+C:\Users\Manh Dung\Downloads\CSharp_ThucHanh01\bin\Debug\net8.0\CSharp_ThucHanh01.pdb
+C:\Users\Manh Dung\Downloads\CSharp_ThucHanh01\obj\Debug\net8.0\CSharp_ThucHanh01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Manh Dung\Downloads\CSharp_ThucHanh01\obj\Debug\net8.0\CSharp_ThucHanh01.AssemblyInfoInputs.cache
+C:\Users\Manh Dung\Downloads\CSharp_ThucHanh01\obj\Debug\net8.0\CSharp_ThucHanh01.AssemblyInfo.cs
+C:\Users\Manh Dung\Downloads\CSharp_ThucHanh01\obj\Debug\net8.0\CSharp_ThucHanh01.csproj.CoreCompileInputs.cache
+C:\Users\Manh Dung\Downloads\CSharp_ThucHanh01\obj\Debug\net8.0\CSharp_ThucHanh01.dll
+C:\Users\Manh Dung\Downloads\CSharp_ThucHanh01\obj\Debug\net8.0\refint\CSharp_ThucHanh01.dll
+C:\Users\Manh Dung\Downloads\CSharp_ThucHanh01\obj\Debug\net8.0\CSharp_ThucHanh01.pdb
+C:\Users\Manh Dung\Downloads\CSharp_ThucHanh01\obj\Debug\net8.0\CSharp_ThucHanh01.genruntimeconfig.cache
+C:\Users\Manh Dung\Downloads\CSharp_ThucHanh01\obj\Debug\net8.0\ref\CSharp_ThucHanh01.dll
+D:\homework\NNLTCsarp\BAI-TAP-C-\TUAN 3\NNLTCSharp_ThucHanh01\bin\Debug\net8.0\CSharp_ThucHanh01.exe
+D:\homework\NNLTCsarp\BAI-TAP-C-\TUAN 3\NNLTCSharp_ThucHanh01\bin\Debug\net8.0\CSharp_ThucHanh01.deps.json
+D:\homework\NNLTCsarp\BAI-TAP-C-\TUAN 3\NNLTCSharp_ThucHanh01\bin\Debug\net8.0\CSharp_ThucHanh01.runtimeconfig.json
+D:\homework\NNLTCsarp\BAI-TAP-C-\TUAN 3\NNLTCSharp_ThucHanh01\bin\Debug\net8.0\CSharp_ThucHanh01.dll
+D:\homework\NNLTCsarp\BAI-TAP-C-\TUAN 3\NNLTCSharp_ThucHanh01\bin\Debug\net8.0\CSharp_ThucHanh01.pdb
+D:\homework\NNLTCsarp\BAI-TAP-C-\TUAN 3\NNLTCSharp_ThucHanh01\obj\Debug\net8.0\CSharp_ThucHanh01.GeneratedMSBuildEditorConfig.editorconfig
+D:\homework\NNLTCsarp\BAI-TAP-C-\TUAN 3\NNLTCSharp_ThucHanh01\obj\Debug\net8.0\CSharp_ThucHanh01.AssemblyInfoInputs.cache
+D:\homework\NNLTCsarp\BAI-TAP-C-\TUAN 3\NNLTCSharp_ThucHanh01\obj\Debug\net8.0\CSharp_ThucHanh01.AssemblyInfo.cs
+D:\homework\NNLTCsarp\BAI-TAP-C-\TUAN 3\NNLTCSharp_ThucHanh01\obj\Debug\net8.0\CSharp_ThucHanh01.csproj.CoreCompileInputs.cache
+D:\homework\NNLTCsarp\BAI-TAP-C-\TUAN 3\NNLTCSharp_ThucHanh01\obj\Debug\net8.0\CSharp_ThucHanh01.sourcelink.json
+D:\homework\NNLTCsarp\BAI-TAP-C-\TUAN 3\NNLTCSharp_ThucHanh01\obj\Debug\net8.0\CSharp_ThucHanh01.dll
+D:\homework\NNLTCsarp\BAI-TAP-C-\TUAN 3\NNLTCSharp_ThucHanh01\obj\Debug\net8.0\refint\CSharp_ThucHanh01.dll
+D:\homework\NNLTCsarp\BAI-TAP-C-\TUAN 3\NNLTCSharp_ThucHanh01\obj\Debug\net8.0\CSharp_ThucHanh01.pdb
+D:\homework\NNLTCsarp\BAI-TAP-C-\TUAN 3\NNLTCSharp_ThucHanh01\obj\Debug\net8.0\CSharp_ThucHanh01.genruntimeconfig.cache
+D:\homework\NNLTCsarp\BAI-TAP-C-\TUAN 3\NNLTCSharp_ThucHanh01\obj\Debug\net8.0\ref\CSharp_ThucHanh01.dll

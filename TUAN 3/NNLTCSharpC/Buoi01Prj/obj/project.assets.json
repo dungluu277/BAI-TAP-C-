@@ -1,0 +1,95 @@
+{
+  "version": 3,
+  "targets": {
+    "net9.0": {
+      "MyLib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "compile": {
+          "bin/placeholder/MyLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MyLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MyLib/1.0.0": {
+      "type": "project",
+      "path": "../MyLib/MyLib.csproj",
+      "msbuildProject": "../MyLib/MyLib.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net9.0": [
+      "MyLib >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Manh Dung\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\homework\\NNLTCsarp\\BAI-TAP-C-\\TUAN 3\\NNLTCSharpC\\Buoi01Prj\\Buoi01Prj.csproj",
+      "projectName": "Buoi01Prj",
+      "projectPath": "D:\\homework\\NNLTCsarp\\BAI-TAP-C-\\TUAN 3\\NNLTCSharpC\\Buoi01Prj\\Buoi01Prj.csproj",
+      "packagesPath": "C:\\Users\\Manh Dung\\.nuget\\packages\\",
+      "outputPath": "D:\\homework\\NNLTCsarp\\BAI-TAP-C-\\TUAN 3\\NNLTCSharpC\\Buoi01Prj\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Manh Dung\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net9.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "projectReferences": {
+            "D:\\homework\\NNLTCsarp\\BAI-TAP-C-\\TUAN 3\\NNLTCSharpC\\MyLib\\MyLib.csproj": {
+              "projectPath": "D:\\homework\\NNLTCsarp\\BAI-TAP-C-\\TUAN 3\\NNLTCSharpC\\MyLib\\MyLib.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.300"
+    },
+    "frameworks": {
+      "net9.0": {
+        "targetAlias": "net9.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.317/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

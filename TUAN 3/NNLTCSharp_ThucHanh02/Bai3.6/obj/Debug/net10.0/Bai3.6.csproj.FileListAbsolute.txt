@@ -1,0 +1,30 @@
+C:\Users\hauth\OneDrive\Tài liệu\GitHub\CSharp\Lab02\TH02\Bai3.6\bin\Debug\net10.0\Bai3.6.exe
+C:\Users\hauth\OneDrive\Tài liệu\GitHub\CSharp\Lab02\TH02\Bai3.6\bin\Debug\net10.0\Bai3.6.deps.json
+C:\Users\hauth\OneDrive\Tài liệu\GitHub\CSharp\Lab02\TH02\Bai3.6\bin\Debug\net10.0\Bai3.6.runtimeconfig.json
+C:\Users\hauth\OneDrive\Tài liệu\GitHub\CSharp\Lab02\TH02\Bai3.6\bin\Debug\net10.0\Bai3.6.dll
+C:\Users\hauth\OneDrive\Tài liệu\GitHub\CSharp\Lab02\TH02\Bai3.6\bin\Debug\net10.0\Bai3.6.pdb
+C:\Users\hauth\OneDrive\Tài liệu\GitHub\CSharp\Lab02\TH02\Bai3.6\obj\Debug\net10.0\Bai3.6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hauth\OneDrive\Tài liệu\GitHub\CSharp\Lab02\TH02\Bai3.6\obj\Debug\net10.0\Bai3.6.AssemblyInfoInputs.cache
+C:\Users\hauth\OneDrive\Tài liệu\GitHub\CSharp\Lab02\TH02\Bai3.6\obj\Debug\net10.0\Bai3.6.AssemblyInfo.cs
+C:\Users\hauth\OneDrive\Tài liệu\GitHub\CSharp\Lab02\TH02\Bai3.6\obj\Debug\net10.0\Bai3.6.csproj.CoreCompileInputs.cache
+C:\Users\hauth\OneDrive\Tài liệu\GitHub\CSharp\Lab02\TH02\Bai3.6\obj\Debug\net10.0\Bai3.6.sourcelink.json
+C:\Users\hauth\OneDrive\Tài liệu\GitHub\CSharp\Lab02\TH02\Bai3.6\obj\Debug\net10.0\Bai3.6.dll
+C:\Users\hauth\OneDrive\Tài liệu\GitHub\CSharp\Lab02\TH02\Bai3.6\obj\Debug\net10.0\refint\Bai3.6.dll
+C:\Users\hauth\OneDrive\Tài liệu\GitHub\CSharp\Lab02\TH02\Bai3.6\obj\Debug\net10.0\Bai3.6.pdb
+C:\Users\hauth\OneDrive\Tài liệu\GitHub\CSharp\Lab02\TH02\Bai3.6\obj\Debug\net10.0\Bai3.6.genruntimeconfig.cache
+C:\Users\hauth\OneDrive\Tài liệu\GitHub\CSharp\Lab02\TH02\Bai3.6\obj\Debug\net10.0\ref\Bai3.6.dll
+D:\sgu26_NNLCsharp_C3\Tuan02\TH2\TH02\Bai3.6\bin\Debug\net10.0\Bai3.6.exe
+D:\sgu26_NNLCsharp_C3\Tuan02\TH2\TH02\Bai3.6\bin\Debug\net10.0\Bai3.6.deps.json
+D:\sgu26_NNLCsharp_C3\Tuan02\TH2\TH02\Bai3.6\bin\Debug\net10.0\Bai3.6.runtimeconfig.json
+D:\sgu26_NNLCsharp_C3\Tuan02\TH2\TH02\Bai3.6\bin\Debug\net10.0\Bai3.6.dll
+D:\sgu26_NNLCsharp_C3\Tuan02\TH2\TH02\Bai3.6\bin\Debug\net10.0\Bai3.6.pdb
+D:\sgu26_NNLCsharp_C3\Tuan02\TH2\TH02\Bai3.6\obj\Debug\net10.0\Bai3.6.GeneratedMSBuildEditorConfig.editorconfig
+D:\sgu26_NNLCsharp_C3\Tuan02\TH2\TH02\Bai3.6\obj\Debug\net10.0\Bai3.6.AssemblyInfoInputs.cache
+D:\sgu26_NNLCsharp_C3\Tuan02\TH2\TH02\Bai3.6\obj\Debug\net10.0\Bai3.6.AssemblyInfo.cs
+D:\sgu26_NNLCsharp_C3\Tuan02\TH2\TH02\Bai3.6\obj\Debug\net10.0\Bai3.6.csproj.CoreCompileInputs.cache
+D:\sgu26_NNLCsharp_C3\Tuan02\TH2\TH02\Bai3.6\obj\Debug\net10.0\Bai3.6.sourcelink.json
+D:\sgu26_NNLCsharp_C3\Tuan02\TH2\TH02\Bai3.6\obj\Debug\net10.0\Bai3.6.dll
+D:\sgu26_NNLCsharp_C3\Tuan02\TH2\TH02\Bai3.6\obj\Debug\net10.0\refint\Bai3.6.dll
+D:\sgu26_NNLCsharp_C3\Tuan02\TH2\TH02\Bai3.6\obj\Debug\net10.0\Bai3.6.pdb
+D:\sgu26_NNLCsharp_C3\Tuan02\TH2\TH02\Bai3.6\obj\Debug\net10.0\Bai3.6.genruntimeconfig.cache
+D:\sgu26_NNLCsharp_C3\Tuan02\TH2\TH02\Bai3.6\obj\Debug\net10.0\ref\Bai3.6.dll
