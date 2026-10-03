@@ -1,0 +1,14 @@
+C:\Users\Manh Dung\Downloads\Lab04_WinFormBasic_LuuLuongManhDung_3124411053\TH4c\BTVN1\bin\Debug\net8.0-windows\BTVN1.exe
+C:\Users\Manh Dung\Downloads\Lab04_WinFormBasic_LuuLuongManhDung_3124411053\TH4c\BTVN1\bin\Debug\net8.0-windows\BTVN1.deps.json
+C:\Users\Manh Dung\Downloads\Lab04_WinFormBasic_LuuLuongManhDung_3124411053\TH4c\BTVN1\bin\Debug\net8.0-windows\BTVN1.runtimeconfig.json
+C:\Users\Manh Dung\Downloads\Lab04_WinFormBasic_LuuLuongManhDung_3124411053\TH4c\BTVN1\bin\Debug\net8.0-windows\BTVN1.dll
+C:\Users\Manh Dung\Downloads\Lab04_WinFormBasic_LuuLuongManhDung_3124411053\TH4c\BTVN1\bin\Debug\net8.0-windows\BTVN1.pdb
+C:\Users\Manh Dung\Downloads\Lab04_WinFormBasic_LuuLuongManhDung_3124411053\TH4c\BTVN1\obj\Debug\net8.0-windows\BTVN1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Manh Dung\Downloads\Lab04_WinFormBasic_LuuLuongManhDung_3124411053\TH4c\BTVN1\obj\Debug\net8.0-windows\BTVN1.AssemblyInfoInputs.cache
+C:\Users\Manh Dung\Downloads\Lab04_WinFormBasic_LuuLuongManhDung_3124411053\TH4c\BTVN1\obj\Debug\net8.0-windows\BTVN1.AssemblyInfo.cs
+C:\Users\Manh Dung\Downloads\Lab04_WinFormBasic_LuuLuongManhDung_3124411053\TH4c\BTVN1\obj\Debug\net8.0-windows\BTVN1.csproj.CoreCompileInputs.cache
+C:\Users\Manh Dung\Downloads\Lab04_WinFormBasic_LuuLuongManhDung_3124411053\TH4c\BTVN1\obj\Debug\net8.0-windows\BTVN1.dll
+C:\Users\Manh Dung\Downloads\Lab04_WinFormBasic_LuuLuongManhDung_3124411053\TH4c\BTVN1\obj\Debug\net8.0-windows\refint\BTVN1.dll
+C:\Users\Manh Dung\Downloads\Lab04_WinFormBasic_LuuLuongManhDung_3124411053\TH4c\BTVN1\obj\Debug\net8.0-windows\BTVN1.pdb
+C:\Users\Manh Dung\Downloads\Lab04_WinFormBasic_LuuLuongManhDung_3124411053\TH4c\BTVN1\obj\Debug\net8.0-windows\BTVN1.genruntimeconfig.cache
+C:\Users\Manh Dung\Downloads\Lab04_WinFormBasic_LuuLuongManhDung_3124411053\TH4c\BTVN1\obj\Debug\net8.0-windows\ref\BTVN1.dll

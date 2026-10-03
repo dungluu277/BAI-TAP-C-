@@ -1,0 +1,14 @@
+C:\Users\Manh Dung\Downloads\Lab03_LuuLuongManhDung_3124411053\vscode_LinQ\bin\Debug\net8.0\BaiThucHanhLINQ.exe
+C:\Users\Manh Dung\Downloads\Lab03_LuuLuongManhDung_3124411053\vscode_LinQ\bin\Debug\net8.0\BaiThucHanhLINQ.deps.json
+C:\Users\Manh Dung\Downloads\Lab03_LuuLuongManhDung_3124411053\vscode_LinQ\bin\Debug\net8.0\BaiThucHanhLINQ.runtimeconfig.json
+C:\Users\Manh Dung\Downloads\Lab03_LuuLuongManhDung_3124411053\vscode_LinQ\bin\Debug\net8.0\BaiThucHanhLINQ.dll
+C:\Users\Manh Dung\Downloads\Lab03_LuuLuongManhDung_3124411053\vscode_LinQ\bin\Debug\net8.0\BaiThucHanhLINQ.pdb
+C:\Users\Manh Dung\Downloads\Lab03_LuuLuongManhDung_3124411053\vscode_LinQ\obj\Debug\net8.0\BaiThucHanhLINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Manh Dung\Downloads\Lab03_LuuLuongManhDung_3124411053\vscode_LinQ\obj\Debug\net8.0\BaiThucHanhLINQ.AssemblyInfoInputs.cache
+C:\Users\Manh Dung\Downloads\Lab03_LuuLuongManhDung_3124411053\vscode_LinQ\obj\Debug\net8.0\BaiThucHanhLINQ.AssemblyInfo.cs
+C:\Users\Manh Dung\Downloads\Lab03_LuuLuongManhDung_3124411053\vscode_LinQ\obj\Debug\net8.0\BaiThucHanhLINQ.csproj.CoreCompileInputs.cache
+C:\Users\Manh Dung\Downloads\Lab03_LuuLuongManhDung_3124411053\vscode_LinQ\obj\Debug\net8.0\BaiThucHanhLINQ.dll
+C:\Users\Manh Dung\Downloads\Lab03_LuuLuongManhDung_3124411053\vscode_LinQ\obj\Debug\net8.0\refint\BaiThucHanhLINQ.dll
+C:\Users\Manh Dung\Downloads\Lab03_LuuLuongManhDung_3124411053\vscode_LinQ\obj\Debug\net8.0\BaiThucHanhLINQ.pdb
+C:\Users\Manh Dung\Downloads\Lab03_LuuLuongManhDung_3124411053\vscode_LinQ\obj\Debug\net8.0\BaiThucHanhLINQ.genruntimeconfig.cache
+C:\Users\Manh Dung\Downloads\Lab03_LuuLuongManhDung_3124411053\vscode_LinQ\obj\Debug\net8.0\ref\BaiThucHanhLINQ.dll
