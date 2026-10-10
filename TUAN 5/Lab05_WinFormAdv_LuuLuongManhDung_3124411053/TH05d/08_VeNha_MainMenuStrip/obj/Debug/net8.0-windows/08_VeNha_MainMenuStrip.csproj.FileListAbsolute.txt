@@ -1,0 +1,14 @@
+C:\Users\Manh Dung\Downloads\BaiTap_WinForm_NangCao\File2_05d_WinForm_NangCao_2\08_VeNha_MainMenuStrip\bin\Debug\net8.0-windows\08_VeNha_MainMenuStrip.exe
+C:\Users\Manh Dung\Downloads\BaiTap_WinForm_NangCao\File2_05d_WinForm_NangCao_2\08_VeNha_MainMenuStrip\bin\Debug\net8.0-windows\08_VeNha_MainMenuStrip.deps.json
+C:\Users\Manh Dung\Downloads\BaiTap_WinForm_NangCao\File2_05d_WinForm_NangCao_2\08_VeNha_MainMenuStrip\bin\Debug\net8.0-windows\08_VeNha_MainMenuStrip.runtimeconfig.json
+C:\Users\Manh Dung\Downloads\BaiTap_WinForm_NangCao\File2_05d_WinForm_NangCao_2\08_VeNha_MainMenuStrip\bin\Debug\net8.0-windows\08_VeNha_MainMenuStrip.dll
+C:\Users\Manh Dung\Downloads\BaiTap_WinForm_NangCao\File2_05d_WinForm_NangCao_2\08_VeNha_MainMenuStrip\bin\Debug\net8.0-windows\08_VeNha_MainMenuStrip.pdb
+C:\Users\Manh Dung\Downloads\BaiTap_WinForm_NangCao\File2_05d_WinForm_NangCao_2\08_VeNha_MainMenuStrip\obj\Debug\net8.0-windows\08_VeNha_MainMenuStrip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Manh Dung\Downloads\BaiTap_WinForm_NangCao\File2_05d_WinForm_NangCao_2\08_VeNha_MainMenuStrip\obj\Debug\net8.0-windows\08_VeNha_MainMenuStrip.AssemblyInfoInputs.cache
+C:\Users\Manh Dung\Downloads\BaiTap_WinForm_NangCao\File2_05d_WinForm_NangCao_2\08_VeNha_MainMenuStrip\obj\Debug\net8.0-windows\08_VeNha_MainMenuStrip.AssemblyInfo.cs
+C:\Users\Manh Dung\Downloads\BaiTap_WinForm_NangCao\File2_05d_WinForm_NangCao_2\08_VeNha_MainMenuStrip\obj\Debug\net8.0-windows\08_VeNha_MainMenuStrip.csproj.CoreCompileInputs.cache
+C:\Users\Manh Dung\Downloads\BaiTap_WinForm_NangCao\File2_05d_WinForm_NangCao_2\08_VeNha_MainMenuStrip\obj\Debug\net8.0-windows\08_VeNha_MainMenuStrip.dll
+C:\Users\Manh Dung\Downloads\BaiTap_WinForm_NangCao\File2_05d_WinForm_NangCao_2\08_VeNha_MainMenuStrip\obj\Debug\net8.0-windows\refint\08_VeNha_MainMenuStrip.dll
+C:\Users\Manh Dung\Downloads\BaiTap_WinForm_NangCao\File2_05d_WinForm_NangCao_2\08_VeNha_MainMenuStrip\obj\Debug\net8.0-windows\08_VeNha_MainMenuStrip.pdb
+C:\Users\Manh Dung\Downloads\BaiTap_WinForm_NangCao\File2_05d_WinForm_NangCao_2\08_VeNha_MainMenuStrip\obj\Debug\net8.0-windows\08_VeNha_MainMenuStrip.genruntimeconfig.cache
+C:\Users\Manh Dung\Downloads\BaiTap_WinForm_NangCao\File2_05d_WinForm_NangCao_2\08_VeNha_MainMenuStrip\obj\Debug\net8.0-windows\ref\08_VeNha_MainMenuStrip.dll

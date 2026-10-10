@@ -1,0 +1,14 @@
+C:\Users\Manh Dung\Downloads\BaiTap_WinForm_NangCao\File2_05d_WinForm_NangCao_2\06_NangCao_QuanLyHocVien\bin\Debug\net8.0-windows\06_NangCao_QuanLyHocVien.exe
+C:\Users\Manh Dung\Downloads\BaiTap_WinForm_NangCao\File2_05d_WinForm_NangCao_2\06_NangCao_QuanLyHocVien\bin\Debug\net8.0-windows\06_NangCao_QuanLyHocVien.deps.json
+C:\Users\Manh Dung\Downloads\BaiTap_WinForm_NangCao\File2_05d_WinForm_NangCao_2\06_NangCao_QuanLyHocVien\bin\Debug\net8.0-windows\06_NangCao_QuanLyHocVien.runtimeconfig.json
+C:\Users\Manh Dung\Downloads\BaiTap_WinForm_NangCao\File2_05d_WinForm_NangCao_2\06_NangCao_QuanLyHocVien\bin\Debug\net8.0-windows\06_NangCao_QuanLyHocVien.dll
+C:\Users\Manh Dung\Downloads\BaiTap_WinForm_NangCao\File2_05d_WinForm_NangCao_2\06_NangCao_QuanLyHocVien\bin\Debug\net8.0-windows\06_NangCao_QuanLyHocVien.pdb
+C:\Users\Manh Dung\Downloads\BaiTap_WinForm_NangCao\File2_05d_WinForm_NangCao_2\06_NangCao_QuanLyHocVien\obj\Debug\net8.0-windows\06_NangCao_QuanLyHocVien.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Manh Dung\Downloads\BaiTap_WinForm_NangCao\File2_05d_WinForm_NangCao_2\06_NangCao_QuanLyHocVien\obj\Debug\net8.0-windows\06_NangCao_QuanLyHocVien.AssemblyInfoInputs.cache
+C:\Users\Manh Dung\Downloads\BaiTap_WinForm_NangCao\File2_05d_WinForm_NangCao_2\06_NangCao_QuanLyHocVien\obj\Debug\net8.0-windows\06_NangCao_QuanLyHocVien.AssemblyInfo.cs
+C:\Users\Manh Dung\Downloads\BaiTap_WinForm_NangCao\File2_05d_WinForm_NangCao_2\06_NangCao_QuanLyHocVien\obj\Debug\net8.0-windows\06_NangCao_QuanLyHocVien.csproj.CoreCompileInputs.cache
+C:\Users\Manh Dung\Downloads\BaiTap_WinForm_NangCao\File2_05d_WinForm_NangCao_2\06_NangCao_QuanLyHocVien\obj\Debug\net8.0-windows\06_NangCao_QuanLyHocVien.dll
+C:\Users\Manh Dung\Downloads\BaiTap_WinForm_NangCao\File2_05d_WinForm_NangCao_2\06_NangCao_QuanLyHocVien\obj\Debug\net8.0-windows\refint\06_NangCao_QuanLyHocVien.dll
+C:\Users\Manh Dung\Downloads\BaiTap_WinForm_NangCao\File2_05d_WinForm_NangCao_2\06_NangCao_QuanLyHocVien\obj\Debug\net8.0-windows\06_NangCao_QuanLyHocVien.pdb
+C:\Users\Manh Dung\Downloads\BaiTap_WinForm_NangCao\File2_05d_WinForm_NangCao_2\06_NangCao_QuanLyHocVien\obj\Debug\net8.0-windows\06_NangCao_QuanLyHocVien.genruntimeconfig.cache
+C:\Users\Manh Dung\Downloads\BaiTap_WinForm_NangCao\File2_05d_WinForm_NangCao_2\06_NangCao_QuanLyHocVien\obj\Debug\net8.0-windows\ref\06_NangCao_QuanLyHocVien.dll

@@ -1,0 +1,14 @@
+C:\Users\Manh Dung\Downloads\BaiTap_WinForm_NangCao\File1_05c_WinForm_NangCao_1\08_VeNha_ListBoxSo\bin\Debug\net8.0-windows\08_VeNha_ListBoxSo.exe
+C:\Users\Manh Dung\Downloads\BaiTap_WinForm_NangCao\File1_05c_WinForm_NangCao_1\08_VeNha_ListBoxSo\bin\Debug\net8.0-windows\08_VeNha_ListBoxSo.deps.json
+C:\Users\Manh Dung\Downloads\BaiTap_WinForm_NangCao\File1_05c_WinForm_NangCao_1\08_VeNha_ListBoxSo\bin\Debug\net8.0-windows\08_VeNha_ListBoxSo.runtimeconfig.json
+C:\Users\Manh Dung\Downloads\BaiTap_WinForm_NangCao\File1_05c_WinForm_NangCao_1\08_VeNha_ListBoxSo\bin\Debug\net8.0-windows\08_VeNha_ListBoxSo.dll
+C:\Users\Manh Dung\Downloads\BaiTap_WinForm_NangCao\File1_05c_WinForm_NangCao_1\08_VeNha_ListBoxSo\bin\Debug\net8.0-windows\08_VeNha_ListBoxSo.pdb
+C:\Users\Manh Dung\Downloads\BaiTap_WinForm_NangCao\File1_05c_WinForm_NangCao_1\08_VeNha_ListBoxSo\obj\Debug\net8.0-windows\08_VeNha_ListBoxSo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Manh Dung\Downloads\BaiTap_WinForm_NangCao\File1_05c_WinForm_NangCao_1\08_VeNha_ListBoxSo\obj\Debug\net8.0-windows\08_VeNha_ListBoxSo.AssemblyInfoInputs.cache
+C:\Users\Manh Dung\Downloads\BaiTap_WinForm_NangCao\File1_05c_WinForm_NangCao_1\08_VeNha_ListBoxSo\obj\Debug\net8.0-windows\08_VeNha_ListBoxSo.AssemblyInfo.cs
+C:\Users\Manh Dung\Downloads\BaiTap_WinForm_NangCao\File1_05c_WinForm_NangCao_1\08_VeNha_ListBoxSo\obj\Debug\net8.0-windows\08_VeNha_ListBoxSo.csproj.CoreCompileInputs.cache
+C:\Users\Manh Dung\Downloads\BaiTap_WinForm_NangCao\File1_05c_WinForm_NangCao_1\08_VeNha_ListBoxSo\obj\Debug\net8.0-windows\08_VeNha_ListBoxSo.dll
+C:\Users\Manh Dung\Downloads\BaiTap_WinForm_NangCao\File1_05c_WinForm_NangCao_1\08_VeNha_ListBoxSo\obj\Debug\net8.0-windows\refint\08_VeNha_ListBoxSo.dll
+C:\Users\Manh Dung\Downloads\BaiTap_WinForm_NangCao\File1_05c_WinForm_NangCao_1\08_VeNha_ListBoxSo\obj\Debug\net8.0-windows\08_VeNha_ListBoxSo.pdb
+C:\Users\Manh Dung\Downloads\BaiTap_WinForm_NangCao\File1_05c_WinForm_NangCao_1\08_VeNha_ListBoxSo\obj\Debug\net8.0-windows\08_VeNha_ListBoxSo.genruntimeconfig.cache
+C:\Users\Manh Dung\Downloads\BaiTap_WinForm_NangCao\File1_05c_WinForm_NangCao_1\08_VeNha_ListBoxSo\obj\Debug\net8.0-windows\ref\08_VeNha_ListBoxSo.dll

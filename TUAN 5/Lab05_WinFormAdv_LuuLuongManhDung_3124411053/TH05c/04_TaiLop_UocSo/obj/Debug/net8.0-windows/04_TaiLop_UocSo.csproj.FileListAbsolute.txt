@@ -1,0 +1,15 @@
+C:\Users\Manh Dung\Downloads\BaiTap_WinForm_NangCao\File1_05c_WinForm_NangCao_1\04_TaiLop_UocSo\bin\Debug\net8.0-windows\04_TaiLop_UocSo.exe
+C:\Users\Manh Dung\Downloads\BaiTap_WinForm_NangCao\File1_05c_WinForm_NangCao_1\04_TaiLop_UocSo\bin\Debug\net8.0-windows\04_TaiLop_UocSo.deps.json
+C:\Users\Manh Dung\Downloads\BaiTap_WinForm_NangCao\File1_05c_WinForm_NangCao_1\04_TaiLop_UocSo\bin\Debug\net8.0-windows\04_TaiLop_UocSo.runtimeconfig.json
+C:\Users\Manh Dung\Downloads\BaiTap_WinForm_NangCao\File1_05c_WinForm_NangCao_1\04_TaiLop_UocSo\bin\Debug\net8.0-windows\04_TaiLop_UocSo.dll
+C:\Users\Manh Dung\Downloads\BaiTap_WinForm_NangCao\File1_05c_WinForm_NangCao_1\04_TaiLop_UocSo\bin\Debug\net8.0-windows\04_TaiLop_UocSo.pdb
+C:\Users\Manh Dung\Downloads\BaiTap_WinForm_NangCao\File1_05c_WinForm_NangCao_1\04_TaiLop_UocSo\obj\Debug\net8.0-windows\04_TaiLop_UocSo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Manh Dung\Downloads\BaiTap_WinForm_NangCao\File1_05c_WinForm_NangCao_1\04_TaiLop_UocSo\obj\Debug\net8.0-windows\04_TaiLop_UocSo.AssemblyInfoInputs.cache
+C:\Users\Manh Dung\Downloads\BaiTap_WinForm_NangCao\File1_05c_WinForm_NangCao_1\04_TaiLop_UocSo\obj\Debug\net8.0-windows\04_TaiLop_UocSo.AssemblyInfo.cs
+C:\Users\Manh Dung\Downloads\BaiTap_WinForm_NangCao\File1_05c_WinForm_NangCao_1\04_TaiLop_UocSo\obj\Debug\net8.0-windows\04_TaiLop_UocSo.csproj.CoreCompileInputs.cache
+C:\Users\Manh Dung\Downloads\BaiTap_WinForm_NangCao\File1_05c_WinForm_NangCao_1\04_TaiLop_UocSo\obj\Debug\net8.0-windows\04_TaiLop_UocSo.dll
+C:\Users\Manh Dung\Downloads\BaiTap_WinForm_NangCao\File1_05c_WinForm_NangCao_1\04_TaiLop_UocSo\obj\Debug\net8.0-windows\refint\04_TaiLop_UocSo.dll
+C:\Users\Manh Dung\Downloads\BaiTap_WinForm_NangCao\File1_05c_WinForm_NangCao_1\04_TaiLop_UocSo\obj\Debug\net8.0-windows\04_TaiLop_UocSo.pdb
+C:\Users\Manh Dung\Downloads\BaiTap_WinForm_NangCao\File1_05c_WinForm_NangCao_1\04_TaiLop_UocSo\obj\Debug\net8.0-windows\04_TaiLop_UocSo.genruntimeconfig.cache
+C:\Users\Manh Dung\Downloads\BaiTap_WinForm_NangCao\File1_05c_WinForm_NangCao_1\04_TaiLop_UocSo\obj\Debug\net8.0-windows\ref\04_TaiLop_UocSo.dll
+C:\Users\Manh Dung\Downloads\BaiTap_WinForm_NangCao\File1_05c_WinForm_NangCao_1\04_TaiLop_UocSo\obj\Debug\net8.0-windows\04_TaiLo.0F776A05.Up2Date

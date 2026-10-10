@@ -1,0 +1,14 @@
+C:\Users\Manh Dung\Downloads\BaiTap_WinForm_NangCao\File2_05d_WinForm_NangCao_2\07_VeNha_DemNguoc\bin\Debug\net8.0-windows\07_VeNha_DemNguoc.exe
+C:\Users\Manh Dung\Downloads\BaiTap_WinForm_NangCao\File2_05d_WinForm_NangCao_2\07_VeNha_DemNguoc\bin\Debug\net8.0-windows\07_VeNha_DemNguoc.deps.json
+C:\Users\Manh Dung\Downloads\BaiTap_WinForm_NangCao\File2_05d_WinForm_NangCao_2\07_VeNha_DemNguoc\bin\Debug\net8.0-windows\07_VeNha_DemNguoc.runtimeconfig.json
+C:\Users\Manh Dung\Downloads\BaiTap_WinForm_NangCao\File2_05d_WinForm_NangCao_2\07_VeNha_DemNguoc\bin\Debug\net8.0-windows\07_VeNha_DemNguoc.dll
+C:\Users\Manh Dung\Downloads\BaiTap_WinForm_NangCao\File2_05d_WinForm_NangCao_2\07_VeNha_DemNguoc\bin\Debug\net8.0-windows\07_VeNha_DemNguoc.pdb
+C:\Users\Manh Dung\Downloads\BaiTap_WinForm_NangCao\File2_05d_WinForm_NangCao_2\07_VeNha_DemNguoc\obj\Debug\net8.0-windows\07_VeNha_DemNguoc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Manh Dung\Downloads\BaiTap_WinForm_NangCao\File2_05d_WinForm_NangCao_2\07_VeNha_DemNguoc\obj\Debug\net8.0-windows\07_VeNha_DemNguoc.AssemblyInfoInputs.cache
+C:\Users\Manh Dung\Downloads\BaiTap_WinForm_NangCao\File2_05d_WinForm_NangCao_2\07_VeNha_DemNguoc\obj\Debug\net8.0-windows\07_VeNha_DemNguoc.AssemblyInfo.cs
+C:\Users\Manh Dung\Downloads\BaiTap_WinForm_NangCao\File2_05d_WinForm_NangCao_2\07_VeNha_DemNguoc\obj\Debug\net8.0-windows\07_VeNha_DemNguoc.csproj.CoreCompileInputs.cache
+C:\Users\Manh Dung\Downloads\BaiTap_WinForm_NangCao\File2_05d_WinForm_NangCao_2\07_VeNha_DemNguoc\obj\Debug\net8.0-windows\07_VeNha_DemNguoc.dll
+C:\Users\Manh Dung\Downloads\BaiTap_WinForm_NangCao\File2_05d_WinForm_NangCao_2\07_VeNha_DemNguoc\obj\Debug\net8.0-windows\refint\07_VeNha_DemNguoc.dll
+C:\Users\Manh Dung\Downloads\BaiTap_WinForm_NangCao\File2_05d_WinForm_NangCao_2\07_VeNha_DemNguoc\obj\Debug\net8.0-windows\07_VeNha_DemNguoc.pdb
+C:\Users\Manh Dung\Downloads\BaiTap_WinForm_NangCao\File2_05d_WinForm_NangCao_2\07_VeNha_DemNguoc\obj\Debug\net8.0-windows\07_VeNha_DemNguoc.genruntimeconfig.cache
+C:\Users\Manh Dung\Downloads\BaiTap_WinForm_NangCao\File2_05d_WinForm_NangCao_2\07_VeNha_DemNguoc\obj\Debug\net8.0-windows\ref\07_VeNha_DemNguoc.dll

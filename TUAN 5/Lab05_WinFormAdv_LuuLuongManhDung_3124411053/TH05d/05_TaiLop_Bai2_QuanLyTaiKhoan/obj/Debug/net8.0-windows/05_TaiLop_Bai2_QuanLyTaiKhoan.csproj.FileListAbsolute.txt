@@ -1,0 +1,14 @@
+C:\Users\Manh Dung\Downloads\BaiTap_WinForm_NangCao\File2_05d_WinForm_NangCao_2\05_TaiLop_Bai2_QuanLyTaiKhoan\bin\Debug\net8.0-windows\05_TaiLop_Bai2_QuanLyTaiKhoan.exe
+C:\Users\Manh Dung\Downloads\BaiTap_WinForm_NangCao\File2_05d_WinForm_NangCao_2\05_TaiLop_Bai2_QuanLyTaiKhoan\bin\Debug\net8.0-windows\05_TaiLop_Bai2_QuanLyTaiKhoan.deps.json
+C:\Users\Manh Dung\Downloads\BaiTap_WinForm_NangCao\File2_05d_WinForm_NangCao_2\05_TaiLop_Bai2_QuanLyTaiKhoan\bin\Debug\net8.0-windows\05_TaiLop_Bai2_QuanLyTaiKhoan.runtimeconfig.json
+C:\Users\Manh Dung\Downloads\BaiTap_WinForm_NangCao\File2_05d_WinForm_NangCao_2\05_TaiLop_Bai2_QuanLyTaiKhoan\bin\Debug\net8.0-windows\05_TaiLop_Bai2_QuanLyTaiKhoan.dll
+C:\Users\Manh Dung\Downloads\BaiTap_WinForm_NangCao\File2_05d_WinForm_NangCao_2\05_TaiLop_Bai2_QuanLyTaiKhoan\bin\Debug\net8.0-windows\05_TaiLop_Bai2_QuanLyTaiKhoan.pdb
+C:\Users\Manh Dung\Downloads\BaiTap_WinForm_NangCao\File2_05d_WinForm_NangCao_2\05_TaiLop_Bai2_QuanLyTaiKhoan\obj\Debug\net8.0-windows\05_TaiLop_Bai2_QuanLyTaiKhoan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Manh Dung\Downloads\BaiTap_WinForm_NangCao\File2_05d_WinForm_NangCao_2\05_TaiLop_Bai2_QuanLyTaiKhoan\obj\Debug\net8.0-windows\05_TaiLop_Bai2_QuanLyTaiKhoan.AssemblyInfoInputs.cache
+C:\Users\Manh Dung\Downloads\BaiTap_WinForm_NangCao\File2_05d_WinForm_NangCao_2\05_TaiLop_Bai2_QuanLyTaiKhoan\obj\Debug\net8.0-windows\05_TaiLop_Bai2_QuanLyTaiKhoan.AssemblyInfo.cs
+C:\Users\Manh Dung\Downloads\BaiTap_WinForm_NangCao\File2_05d_WinForm_NangCao_2\05_TaiLop_Bai2_QuanLyTaiKhoan\obj\Debug\net8.0-windows\05_TaiLop_Bai2_QuanLyTaiKhoan.csproj.CoreCompileInputs.cache
+C:\Users\Manh Dung\Downloads\BaiTap_WinForm_NangCao\File2_05d_WinForm_NangCao_2\05_TaiLop_Bai2_QuanLyTaiKhoan\obj\Debug\net8.0-windows\05_TaiLop_Bai2_QuanLyTaiKhoan.dll
+C:\Users\Manh Dung\Downloads\BaiTap_WinForm_NangCao\File2_05d_WinForm_NangCao_2\05_TaiLop_Bai2_QuanLyTaiKhoan\obj\Debug\net8.0-windows\refint\05_TaiLop_Bai2_QuanLyTaiKhoan.dll
+C:\Users\Manh Dung\Downloads\BaiTap_WinForm_NangCao\File2_05d_WinForm_NangCao_2\05_TaiLop_Bai2_QuanLyTaiKhoan\obj\Debug\net8.0-windows\05_TaiLop_Bai2_QuanLyTaiKhoan.pdb
+C:\Users\Manh Dung\Downloads\BaiTap_WinForm_NangCao\File2_05d_WinForm_NangCao_2\05_TaiLop_Bai2_QuanLyTaiKhoan\obj\Debug\net8.0-windows\05_TaiLop_Bai2_QuanLyTaiKhoan.genruntimeconfig.cache
+C:\Users\Manh Dung\Downloads\BaiTap_WinForm_NangCao\File2_05d_WinForm_NangCao_2\05_TaiLop_Bai2_QuanLyTaiKhoan\obj\Debug\net8.0-windows\ref\05_TaiLop_Bai2_QuanLyTaiKhoan.dll

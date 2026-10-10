@@ -17,3 +17,8 @@ BAI TAP HANG TUAN C#
 ## TUAN 4 TỪ NGÀY 28/9/2026  ĐẾN 4/10/2026
 ### Ngày 28-29/9/2026: hoàn thành lab3 LinQ
 ### Ngày 2-3/10/2026: hoàn thành lab4 Winform
+
+## TUAN 5 TỪ NGÀY 05/10/2026  ĐẾN 11/10/2026
+### Ngày 9-10/9/2026: hoàn thành lab5 Winform nâng cao
+
+

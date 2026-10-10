@@ -1,0 +1,14 @@
+C:\Users\Manh Dung\Downloads\BaiTap_WinForm_NangCao\File1_05c_WinForm_NangCao_1\06_NangCao_XuLyChuoi\bin\Debug\net8.0-windows\06_NangCao_XuLyChuoi.exe
+C:\Users\Manh Dung\Downloads\BaiTap_WinForm_NangCao\File1_05c_WinForm_NangCao_1\06_NangCao_XuLyChuoi\bin\Debug\net8.0-windows\06_NangCao_XuLyChuoi.deps.json
+C:\Users\Manh Dung\Downloads\BaiTap_WinForm_NangCao\File1_05c_WinForm_NangCao_1\06_NangCao_XuLyChuoi\bin\Debug\net8.0-windows\06_NangCao_XuLyChuoi.runtimeconfig.json
+C:\Users\Manh Dung\Downloads\BaiTap_WinForm_NangCao\File1_05c_WinForm_NangCao_1\06_NangCao_XuLyChuoi\bin\Debug\net8.0-windows\06_NangCao_XuLyChuoi.dll
+C:\Users\Manh Dung\Downloads\BaiTap_WinForm_NangCao\File1_05c_WinForm_NangCao_1\06_NangCao_XuLyChuoi\bin\Debug\net8.0-windows\06_NangCao_XuLyChuoi.pdb
+C:\Users\Manh Dung\Downloads\BaiTap_WinForm_NangCao\File1_05c_WinForm_NangCao_1\06_NangCao_XuLyChuoi\obj\Debug\net8.0-windows\06_NangCao_XuLyChuoi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Manh Dung\Downloads\BaiTap_WinForm_NangCao\File1_05c_WinForm_NangCao_1\06_NangCao_XuLyChuoi\obj\Debug\net8.0-windows\06_NangCao_XuLyChuoi.AssemblyInfoInputs.cache
+C:\Users\Manh Dung\Downloads\BaiTap_WinForm_NangCao\File1_05c_WinForm_NangCao_1\06_NangCao_XuLyChuoi\obj\Debug\net8.0-windows\06_NangCao_XuLyChuoi.AssemblyInfo.cs
+C:\Users\Manh Dung\Downloads\BaiTap_WinForm_NangCao\File1_05c_WinForm_NangCao_1\06_NangCao_XuLyChuoi\obj\Debug\net8.0-windows\06_NangCao_XuLyChuoi.csproj.CoreCompileInputs.cache
+C:\Users\Manh Dung\Downloads\BaiTap_WinForm_NangCao\File1_05c_WinForm_NangCao_1\06_NangCao_XuLyChuoi\obj\Debug\net8.0-windows\06_NangCao_XuLyChuoi.dll
+C:\Users\Manh Dung\Downloads\BaiTap_WinForm_NangCao\File1_05c_WinForm_NangCao_1\06_NangCao_XuLyChuoi\obj\Debug\net8.0-windows\refint\06_NangCao_XuLyChuoi.dll
+C:\Users\Manh Dung\Downloads\BaiTap_WinForm_NangCao\File1_05c_WinForm_NangCao_1\06_NangCao_XuLyChuoi\obj\Debug\net8.0-windows\06_NangCao_XuLyChuoi.pdb
+C:\Users\Manh Dung\Downloads\BaiTap_WinForm_NangCao\File1_05c_WinForm_NangCao_1\06_NangCao_XuLyChuoi\obj\Debug\net8.0-windows\06_NangCao_XuLyChuoi.genruntimeconfig.cache
+C:\Users\Manh Dung\Downloads\BaiTap_WinForm_NangCao\File1_05c_WinForm_NangCao_1\06_NangCao_XuLyChuoi\obj\Debug\net8.0-windows\ref\06_NangCao_XuLyChuoi.dll

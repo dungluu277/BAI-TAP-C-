@@ -1,0 +1,14 @@
+C:\Users\Manh Dung\Downloads\BaiTap_WinForm_NangCao\File1_05c_WinForm_NangCao_1\07_VeNha_TuDien\bin\Debug\net8.0-windows\07_VeNha_TuDien.exe
+C:\Users\Manh Dung\Downloads\BaiTap_WinForm_NangCao\File1_05c_WinForm_NangCao_1\07_VeNha_TuDien\bin\Debug\net8.0-windows\07_VeNha_TuDien.deps.json
+C:\Users\Manh Dung\Downloads\BaiTap_WinForm_NangCao\File1_05c_WinForm_NangCao_1\07_VeNha_TuDien\bin\Debug\net8.0-windows\07_VeNha_TuDien.runtimeconfig.json
+C:\Users\Manh Dung\Downloads\BaiTap_WinForm_NangCao\File1_05c_WinForm_NangCao_1\07_VeNha_TuDien\bin\Debug\net8.0-windows\07_VeNha_TuDien.dll
+C:\Users\Manh Dung\Downloads\BaiTap_WinForm_NangCao\File1_05c_WinForm_NangCao_1\07_VeNha_TuDien\bin\Debug\net8.0-windows\07_VeNha_TuDien.pdb
+C:\Users\Manh Dung\Downloads\BaiTap_WinForm_NangCao\File1_05c_WinForm_NangCao_1\07_VeNha_TuDien\obj\Debug\net8.0-windows\07_VeNha_TuDien.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Manh Dung\Downloads\BaiTap_WinForm_NangCao\File1_05c_WinForm_NangCao_1\07_VeNha_TuDien\obj\Debug\net8.0-windows\07_VeNha_TuDien.AssemblyInfoInputs.cache
+C:\Users\Manh Dung\Downloads\BaiTap_WinForm_NangCao\File1_05c_WinForm_NangCao_1\07_VeNha_TuDien\obj\Debug\net8.0-windows\07_VeNha_TuDien.AssemblyInfo.cs
+C:\Users\Manh Dung\Downloads\BaiTap_WinForm_NangCao\File1_05c_WinForm_NangCao_1\07_VeNha_TuDien\obj\Debug\net8.0-windows\07_VeNha_TuDien.csproj.CoreCompileInputs.cache
+C:\Users\Manh Dung\Downloads\BaiTap_WinForm_NangCao\File1_05c_WinForm_NangCao_1\07_VeNha_TuDien\obj\Debug\net8.0-windows\07_VeNha_TuDien.dll
+C:\Users\Manh Dung\Downloads\BaiTap_WinForm_NangCao\File1_05c_WinForm_NangCao_1\07_VeNha_TuDien\obj\Debug\net8.0-windows\refint\07_VeNha_TuDien.dll
+C:\Users\Manh Dung\Downloads\BaiTap_WinForm_NangCao\File1_05c_WinForm_NangCao_1\07_VeNha_TuDien\obj\Debug\net8.0-windows\07_VeNha_TuDien.pdb
+C:\Users\Manh Dung\Downloads\BaiTap_WinForm_NangCao\File1_05c_WinForm_NangCao_1\07_VeNha_TuDien\obj\Debug\net8.0-windows\07_VeNha_TuDien.genruntimeconfig.cache
+C:\Users\Manh Dung\Downloads\BaiTap_WinForm_NangCao\File1_05c_WinForm_NangCao_1\07_VeNha_TuDien\obj\Debug\net8.0-windows\ref\07_VeNha_TuDien.dll
