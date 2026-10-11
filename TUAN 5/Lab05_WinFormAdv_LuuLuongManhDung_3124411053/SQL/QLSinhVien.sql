@@ -1,8 +1,4 @@
-/* ===========================================================
-   Cơ sở dữ liệu QLSinhVien – dùng cho các bài ADO.NET (Bài 7)
-   Chạy trong SQL Server Management Studio (SQL Server 2012 trở lên).
-   Có thể chạy lại nhiều lần (không ghi đè dữ liệu đã có).
-   =========================================================== */
+
 IF DB_ID(N'QLSinhVien') IS NULL CREATE DATABASE QLSinhVien;
 GO
 USE QLSinhVien;
@@ -40,7 +36,6 @@ CREATE TABLE dbo.Diem (
 );
 GO
 
-/* ---- Dữ liệu mẫu (≥ 5 mẫu tin mỗi bảng) ---- */
 IF NOT EXISTS (SELECT 1 FROM dbo.Khoa)
 INSERT dbo.Khoa(MaKhoa, TenKhoa) VALUES
  ('CNTT', N'Công nghệ thông tin'), ('KT', N'Kinh tế'), ('CK', N'Cơ khí'),

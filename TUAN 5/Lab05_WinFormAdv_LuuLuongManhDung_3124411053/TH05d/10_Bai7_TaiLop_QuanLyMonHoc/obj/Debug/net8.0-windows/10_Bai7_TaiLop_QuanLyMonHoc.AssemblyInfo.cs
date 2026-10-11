@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("10_Bai7_TaiLop_QuanLyMonHoc")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a16bc9823cdec420cc826657a1f0c34f275c8c18")]
 [assembly: System.Reflection.AssemblyProductAttribute("10_Bai7_TaiLop_QuanLyMonHoc")]
 [assembly: System.Reflection.AssemblyTitleAttribute("10_Bai7_TaiLop_QuanLyMonHoc")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
